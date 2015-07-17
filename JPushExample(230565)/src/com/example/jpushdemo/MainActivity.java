@@ -23,6 +23,8 @@ public class MainActivity extends InstrumentedActivity implements OnClickListene
 	private Button mStopPush;
 	private Button mResumePush;
 	private EditText msgText;
+	// 测试 git
+	// test  git
 	
 	public static boolean isForeground = false;
 	@Override

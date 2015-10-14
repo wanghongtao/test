@@ -17,7 +17,7 @@ import android.widget.TimePicker;
 import android.widget.Toast;
 import cn.jpush.android.api.InstrumentedActivity;
 import cn.jpush.android.api.JPushInterface;
- import  cn.com.cloudcode.R;
+ import  cn.com.cloudcode.R; //test
 
 public class SettingActivity extends InstrumentedActivity implements OnClickListener {
 	TimePicker startTime;
